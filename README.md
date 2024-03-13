@@ -1,8 +1,19 @@
 <!-- # ⭕ Tic-Tac-Toe -->
+## PERSONAL INFO
+
+
+- CREATOR : VICTOR ADETUNJI 
+- DISCORD : @AVAWORLD
+- TWITTER(X) : @AVAWORLD16 
+
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
-A standard game of Tic-Tac-Toe in Leo.
+
+<p>
+  A standard game of Tic-Tac-Toe in Leo.
+<p/>
+
 
 ⭕ ❕ ⭕ ❕ ❌
 
